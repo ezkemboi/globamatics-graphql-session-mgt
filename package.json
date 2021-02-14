@@ -1,0 +1,27 @@
+{
+  "name": "globamatics-graphql-session-mgt",
+  "version": "1.0.0",
+  "description": "Learning graphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezkemboi/globamatics-graphql-session-mgt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezkemboi/globamatics-graphql-session-mgt/issues"
+  },
+  "homepage": "https://github.com/ezkemboi/globamatics-graphql-session-mgt#readme",
+  "dependencies": {
+    "apollo-server": "^2.21.0",
+    "graphql": "^15.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
